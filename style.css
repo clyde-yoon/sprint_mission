@@ -58,7 +58,7 @@ header {
 }
 
 .top-banner {
-  background-image: url('판다1.png');
+  background-image: url('pictures/판다1.png');
   background-position: 80% 100%;
   background-repeat: no-repeat;
   background-size: 996px 447px;
@@ -80,7 +80,7 @@ header {
 }
 
 .bottom-banner {
-  background-image: url('판다2.png');
+  background-image: url('pictures/판다2.png');
   background-position: 80% 100%;
   background-repeat: no-repeat;
   background-size: 996px 447px;
